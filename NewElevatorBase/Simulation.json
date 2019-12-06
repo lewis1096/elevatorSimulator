@@ -1,0 +1,8 @@
+{
+"NoOfFloors" : [20, 5, 7],
+  "NoOfElevators" : [4, 8, 1],
+"MaxElevatorCapacity" : [20, 8, 9],
+"TimePerFloor" : [1000, 1000, 1000],
+"DoorTime" : [2200, 3000, 25000],
+  "ElevatorTimeOut" : [5000, 10000, 7500]
+}
